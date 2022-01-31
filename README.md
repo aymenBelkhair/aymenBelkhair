@@ -1,14 +1,9 @@
 # README
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, there, I'm Aymen Belkhair student I am a student I studied in University HASSAN II CASABLANCA
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there, I'm Aymen Belkhair  I am a student I studied in University HASSAN II CASABLANCA
 </h1>
 <h3 align="center">I'm very motivieted to work same projects </h3>
-
-
-<a href = "https://www.linkedin.com/in/aymen-belkhair-927029205/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a><br/>
-[![Twitter Follow](https://img.shields.io/twitter/follow/oqis2001?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FOqis2001&screen_name=Oqis2001)
-
 
 ## I'm a Student, Muslims, Developer, and Creative!!
 
