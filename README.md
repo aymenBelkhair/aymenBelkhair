@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Aymen Belkhair student I am a student I studied in University HASSAN II CASABLANCA
 
-[![linkedin](https://img.shields.io/endpoint?color=yellow&label=aymenBelkhair&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/aymen-belkhair-927029205/)<br/>
+<a href = "https://www.linkedin.com/in/aymen-belkhair-927029205/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/ style: font-siez:bold>Aymen Belkair</a><br/>
 [![Twitter Follow](https://img.shields.io/twitter/follow/oqis2001?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FOqis2001&screen_name=Oqis2001)
 
 
