@@ -7,8 +7,8 @@
 
 ## I'm a Student, Muslims, Developer, and Creative!!
 
-- 🔭 I just studied in licenese degree, i have 22 years
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I just studied in Maters degree, i have 22 years
+- 🌱 I’m currently learning everything about Data 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: work a lot of project
 - ⚡ Fun fact: I love what i do and play chess 
