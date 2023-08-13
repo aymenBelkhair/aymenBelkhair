@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there, I'm Aymen Belkhair  I am a student I studied in University HASSAN II CASABLANCA
 </h1>
-<h3 align="center">I'm very motivieted to work same projects </h3>
+<h3 align="center">I'm very motivated to work some projects </h3>
 
 ## I'm a Student, Muslims, Developer, and Creative!!
 
