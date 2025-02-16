@@ -1,16 +1,14 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there, I'm Aymen Belkhair  I am a student I studied in University HASSAN II CASABLANCA
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there, I'm Aymen Belkhair, an Ai enginnier & Data scientist, Muslims, Developer, and Creative
 </h1>
-<h3 align="center">I'm very motivated to work some projects </h3>
+<h3 align="center">I'm very motivated to work some projects </h3
 
-## I'm a Student, Muslims, Developer, and Creative!!
-
-- 🔭 I just studied in Maters degree, i have 23 years
+- 🔭 I am alluminied a Maters degree, i have 24 years
 - 🌱 I’m currently learning everything about Data 🤣
 - 👯 I’m looking to collaborate with other devloppers
-- 🥅 2024 Goals: work a lot of project
+- 🥅 2025 Goals: work a lot of project
 - ⚡ Fun fact: I love what i do 
 
 ### Connect with me:
@@ -42,7 +40,7 @@
 
 ---
 
-[twitter]: https://twitter.com/aymenBelkhair
+[UpWork]: https://www.upwork.com/fl/~0199006cf933d3355f?mp_source=share
 [instagram]: https://www.instagram.com/aymen_belkhair
 [linkedin]: https://linkedin.com/in/aymenBelkhair
 
