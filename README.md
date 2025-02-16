@@ -13,10 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="aymenBelkhair | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="aymenBelkhair | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="aymenBelkhair | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="aymenBelkhair | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][UpWork]
+[<img align="left" alt="aymenBelkhair | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+[<img align="left" alt="aymenBelkhair | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img align="left" alt="aymenBelkhair | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+[<img href = "https://www.upwork.com/fl/~0199006cf933d3355f?mp_source=share" align="left" alt="aymenBelkhair | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />]
 
 <br />
 
