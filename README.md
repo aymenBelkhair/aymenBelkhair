@@ -38,7 +38,7 @@
 <img align="left" alt="OpenAi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Openai/OpenAi.png" /><img align="left" alt="Gemini" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Gemini/Gemini.png" />
 <img align="left" alt="langchain" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Langchain/Langchain.png" />
 <img align="left" alt="Langfuse" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Langfuse/Langfuse.png" />
-<img align="left" alt="CrewAi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Creai/Crewai.png" />
+<img align="left" alt="CrewAi" width="26px" src="https://github.com/aymenBelkhair/image/blob/main/Crewai.png" />
 
 <br />
 <br />
