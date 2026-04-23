@@ -1,15 +1,47 @@
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there, I'm Aymen Belkhair, an Ai enginnier & Data scientist, Muslims, Developer, and Creative
+<h1 align="center">
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aymen Belkhair
 </h1>
-<h3 align="center">I'm very motivated to work some projects </h3
 
-- 🔭 I am alluminied a Maters degree, i have 24 years
-- 🌱 I’m currently learning everything about Data 🤣
-- 👯 I’m looking to collaborate with other devloppers
-- 🥅 2025 Goals: work a lot of project
-- ⚡ Fun fact: I love what i do 
+<h3 align="center">Data & AI Engineer | Machine Learning | MLOps | Cloud</h3>
+
+---
+
+### 🚀 About Me
+- 🎓 Master's degree in Big Data & Cloud Computing  
+- 💡 Passionate about AI, Data Science, and scalable systems  
+- 🌍 International experience (Morocco, France, Canada, UK, Spain, USA)  
+- 🧠 Working on real-world AI systems: RAG, CAG, MLOps platforms, Data Pipelines  
+- ⚙️ Tech stack: Python, SQL, Spark, Azure, FAISS, Transformers  
+
+---
+
+### 🔭 Current Focus
+- Building AI-powered systems (RAG, LLM automation, intelligent agents)  
+- Designing scalable data architectures  
+- Optimizing large-scale data processing (1M+ rows & beyond)  
+
+---
+
+### 🤝 Collaboration
+I'm open to collaborating on:
+- AI / ML projects  
+- Data Engineering pipelines  
+- Open-source contributions  
+
+---
+
+### 🎯 Goals
+- Build impactful AI products  
+- Contribute to innovative data-driven solutions  
+- Keep learning and pushing boundaries  
+
+---
+
+### ⚡ Fun Fact
+I don't just work with data — I turn it into decisions 🚀 
 
 ### Connect with me:
 
