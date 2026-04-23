@@ -14,14 +14,14 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 - 💡 Passionate about AI, Data Science, and scalable systems  
 - 🌍 International experience (Morocco, France, Canada, UK, Spain, USA)  
 - 🧠 Working on real-world AI systems: RAG, CAG, MLOps platforms, Data Pipelines  
-- ⚙️ Tech stack: Python, SQL, Spark, Azure, FAISS, Transformers  
+- ⚙️ Tech stack: based on the project  
 
 ---
 
 ### 🔭 Current Focus
 - Building AI-powered systems (RAG, LLM automation, intelligent agents)  
 - Designing scalable data architectures  
-- Optimizing large-scale data processing (1M+ rows & beyond)  
+- Optimizing large-scale data processing
 
 ---
 
@@ -53,6 +53,8 @@ I don't just work with data — I turn it into decisions 🚀
 </a>
 
 <br />
+
+---
 
 ### Languages and Tools:
 
