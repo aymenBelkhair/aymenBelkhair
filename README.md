@@ -48,10 +48,9 @@ I don't just work with data — I turn it into decisions 🚀
 
 <a href ="https://www.linkedin.com/in/aymen-belkhair"><img align="left" alt="aymenBelkhair | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-<a href="https://x.com/BelkhairXD" target="_blank">
-  <img align="left" alt="X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" />
+<a href="https://x.com/BelkhairXD">
+  <img align="left" alt="Aymen Belkhair | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" />
 </a>
-&nbsp; Follow me on X
 
 <br />
 
